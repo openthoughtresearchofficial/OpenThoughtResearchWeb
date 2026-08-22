@@ -22,7 +22,7 @@ export default function AboutPage() {
             <div className="space-y-24">
               <div className="grid grid-cols-1 lg:grid-cols-12 gap-12">
                 <div className="lg:col-span-3">
-                  <div className="text-xs tracking-wider text-gray-600 uppercase sticky top-32">
+                  <div className="text-xs tracking-wider text-gray-400 uppercase sticky top-32">
                     Founded By
                   </div>
                 </div>
@@ -35,7 +35,7 @@ export default function AboutPage() {
               {/* Introduction */}
               <div className="grid grid-cols-1 lg:grid-cols-12 gap-12">
                 <div className="lg:col-span-3">
-                  <div className="text-xs tracking-wider text-gray-600 uppercase sticky top-32">
+                  <div className="text-xs tracking-wider text-gray-400 uppercase sticky top-32">
                     Introduction
                   </div>
                 </div>
@@ -51,7 +51,7 @@ export default function AboutPage() {
               {/* Mission */}
               <div className="grid grid-cols-1 lg:grid-cols-12 gap-12 border-t border-gray-900 pt-24">
                 <div className="lg:col-span-3">
-                  <div className="text-xs tracking-wider text-gray-600 uppercase sticky top-32">
+                  <div className="text-xs tracking-wider text-gray-400 uppercase sticky top-32">
                     Mission
                   </div>
                 </div>
@@ -73,7 +73,7 @@ export default function AboutPage() {
               {/* Philosophy */}
               <div className="grid grid-cols-1 lg:grid-cols-12 gap-12 border-t border-gray-900 pt-24">
                 <div className="lg:col-span-3">
-                  <div className="text-xs tracking-wider text-gray-600 uppercase sticky top-32">
+                  <div className="text-xs tracking-wider text-gray-400 uppercase sticky top-32">
                     Philosophy
                   </div>
                 </div>
@@ -115,7 +115,7 @@ export default function AboutPage() {
               {/* History */}
               <div className="grid grid-cols-1 lg:grid-cols-12 gap-12 border-t border-gray-900 pt-24">
                 <div className="lg:col-span-3">
-                  <div className="text-xs tracking-wider text-gray-600 uppercase sticky top-32">
+                  <div className="text-xs tracking-wider text-gray-400 uppercase sticky top-32">
                     History
                   </div>
                 </div>

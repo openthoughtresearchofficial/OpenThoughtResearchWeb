@@ -44,6 +44,7 @@ export const metadata: Metadata = {
     description: 'An independent AI research institute dedicated to advancing intelligence.',
     images: ['/og-image.png'],
   },
+  manifest: '/manifest.json',
   metadataBase: new URL('https://openthought.research'),
   robots: {
     index: true,

@@ -32,7 +32,7 @@ export default function VisionPage() {
           <div className="max-w-[1400px] mx-auto">
             <div className="grid grid-cols-1 lg:grid-cols-12 gap-12">
               <div className="lg:col-span-4">
-                <div className="text-xs tracking-wider text-gray-600 uppercase sticky top-32">
+                <div className="text-xs tracking-wider text-gray-400 uppercase sticky top-32">
                   Vision
                 </div>
               </div>
@@ -58,7 +58,7 @@ export default function VisionPage() {
           <div className="max-w-[1400px] mx-auto">
             <div className="grid grid-cols-1 lg:grid-cols-12 gap-12">
               <div className="lg:col-span-4">
-                <div className="text-xs tracking-wider text-gray-600 uppercase sticky top-32">
+                <div className="text-xs tracking-wider text-gray-400 uppercase sticky top-32">
                   Principles
                 </div>
               </div>
@@ -104,7 +104,7 @@ export default function VisionPage() {
           <div className="max-w-[1400px] mx-auto">
             <div className="grid grid-cols-1 lg:grid-cols-12 gap-12">
               <div className="lg:col-span-4">
-                <div className="text-xs tracking-wider text-gray-600 uppercase sticky top-32">
+                <div className="text-xs tracking-wider text-gray-400 uppercase sticky top-32">
                   The Future
                 </div>
               </div>

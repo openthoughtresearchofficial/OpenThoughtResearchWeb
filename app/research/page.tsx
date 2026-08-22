@@ -82,7 +82,7 @@ export default function ResearchPage() {
               >
                 {/* Number */}
                 <div className="lg:col-span-2">
-                  <div className="text-6xl md:text-7xl font-light text-gray-800 sticky top-32">
+                  <div className="text-6xl md:text-7xl font-light text-gray-400 sticky top-32">
                     {area.number}
                   </div>
                 </div>
@@ -99,7 +99,7 @@ export default function ResearchPage() {
 
                 {/* Focus Areas */}
                 <div className="lg:col-span-4 space-y-4">
-                  <div className="text-xs tracking-wider text-gray-600 uppercase">
+                  <div className="text-xs tracking-wider text-gray-400 uppercase">
                     Key Focus
                   </div>
                   {area.focus.map((item, i) => (
@@ -123,7 +123,7 @@ export default function ResearchPage() {
               Interested in Collaboration?
             </h2>
             <Link
-              href="https://github.com"
+              href="https://github.com/openthoughtresearchofficial"
               className="inline-block text-sm font-light tracking-wider text-gray-400 hover:text-white transition-colors border-b border-gray-800 hover:border-white"
             >
               View on GitHub →

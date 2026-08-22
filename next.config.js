@@ -1,7 +1,6 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   reactStrictMode: true,
-  output: 'standalone',
   transpilePackages: ['three', '@react-three/fiber', '@react-three/drei'],
   
   // Image optimization
@@ -19,11 +18,11 @@ const nextConfig = {
   swcMinify: true,
   
   // Reduce bundle size
-  modularizeImports: {
-    'lucide-react': {
-      transform: 'lucide-react/dist/esm/icons/{{kebabCase member}}',
-    },
-  },
+  // modularizeImports: {
+  //   'lucide-react': {
+  //     transform: 'lucide-react/dist/esm/icons/{{kebabCase member}}',
+  //   },
+  // },
 
   // Caching headers
   async headers() {
