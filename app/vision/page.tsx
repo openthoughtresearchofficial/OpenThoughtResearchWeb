@@ -38,16 +38,16 @@ export default function VisionPage() {
               </div>
               <div className="lg:col-span-8 space-y-12">
                 <p className="text-2xl md:text-3xl font-light leading-relaxed text-gray-300">
-                  We envision a future where artificial intelligence amplifies 
-                  human potential rather than replacing it—where machines and 
+                  We envision a future where artificial intelligence amplifies
+                  human potential rather than replacing it—where machines and
                   minds collaborate to solve humanity&apos;s most pressing challenges.
                 </p>
-                  <p className="text-lg font-light leading-relaxed text-gray-400">
-                    Intelligence should be understood, not merely engineered. 
-                    By pursuing fundamental research across multiple disciplines, 
-                    we aim to reveal the principles that govern thought, reasoning, 
-                    and knowledge itself.
-                  </p>
+                <p className="text-lg font-light leading-relaxed text-gray-400">
+                  Intelligence should be understood, not merely engineered.
+                  By pursuing fundamental research across multiple disciplines,
+                  we aim to reveal the principles that govern thought, reasoning,
+                  and knowledge itself.
+                </p>
               </div>
             </div>
           </div>
@@ -66,7 +66,7 @@ export default function VisionPage() {
                 <div className="space-y-4">
                   <h3 className="text-3xl font-light tracking-tight">Open</h3>
                   <p className="text-sm font-light text-gray-500 leading-relaxed max-w-xl">
-                    Research should be accessible. Code should be shared. 
+                    Research should be accessible. Code should be shared.
                     Knowledge should flow freely across institutional boundaries.
                   </p>
                 </div>
@@ -74,7 +74,7 @@ export default function VisionPage() {
                 <div className="space-y-4">
                   <h3 className="text-3xl font-light tracking-tight">Rigorous</h3>
                   <p className="text-sm font-light text-gray-500 leading-relaxed max-w-xl">
-                    We pursue truth through systematic inquiry, mathematical 
+                    We pursue truth through systematic inquiry, mathematical
                     foundations, and empirical validation.
                   </p>
                 </div>
@@ -82,7 +82,7 @@ export default function VisionPage() {
                 <div className="space-y-4">
                   <h3 className="text-3xl font-light tracking-tight">Ethical</h3>
                   <p className="text-sm font-light text-gray-500 leading-relaxed max-w-xl">
-                    Advanced AI must be developed responsibly, with consideration 
+                    Advanced AI must be developed responsibly, with consideration
                     for societal impact and human values.
                   </p>
                 </div>
@@ -90,7 +90,7 @@ export default function VisionPage() {
                 <div className="space-y-4">
                   <h3 className="text-3xl font-light tracking-tight">Long-Term</h3>
                   <p className="text-sm font-light text-gray-500 leading-relaxed max-w-xl">
-                    We focus on fundamental questions that may take decades to 
+                    We focus on fundamental questions that may take decades to
                     answer but reshape our understanding of intelligence.
                   </p>
                 </div>
@@ -110,11 +110,7 @@ export default function VisionPage() {
               </div>
               <div className="lg:col-span-8">
                 <p className="text-xl font-light leading-relaxed text-gray-400">
-                  As AI systems grow more capable, the questions become more urgent. 
-                  How do we ensure safety? How do we verify correctness? How do we 
-                  align systems with human values? These are not just technical 
-                  questions—they are fundamental challenges requiring deep, 
-                  interdisciplinary thinking.
+                  As intelligence evolves beyond our own boundaries, we face a deeper question: how do we ensure that what we create remains truthful, responsible, and aligned with the values that define what it means to be human?
                 </p>
               </div>
             </div>

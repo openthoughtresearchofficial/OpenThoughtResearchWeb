@@ -4,7 +4,7 @@ import { Footer } from '@/components/layout/footer'
 
 export const metadata: Metadata = {
   title: 'About — Open Thought Research',
-  description: 'An independent AI research institute dedicated to advancing intelligence through rigorous science and open collaboration.',
+  description: 'An independent AI research individual collections, dedicated to advancing intelligence through rigorous science and open collaboration.',
 }
 
 export default function AboutPage() {
@@ -57,8 +57,8 @@ export default function AboutPage() {
                 </div>
                 <div className="lg:col-span-9 space-y-8">
                   <p className="text-lg font-light leading-relaxed text-gray-400">
-                    To advance intelligence in all its forms—artificial, human, and 
-                    collective—through fundamental research that explores the nature 
+                    To advance intelligence in all its forms <b>artificial, human </b>, and 
+                    <b>collective</b> through fundamental research that explores the nature 
                     of thought, reasoning, and knowledge.
                   </p>
                   <p className="text-lg font-light leading-relaxed text-gray-400">
@@ -101,14 +101,6 @@ export default function AboutPage() {
                       valuing lasting insights over quick wins.
                     </p>
                   </div>
-
-                  <div className="border-l border-gray-800 pl-8 space-y-3">
-                    <h3 className="text-xl font-light text-white">Human-Centered AI</h3>
-                    <p className="text-sm font-light text-gray-500 leading-relaxed">
-                      Technology should serve human flourishing, augmenting capabilities 
-                      while respecting autonomy and values.
-                    </p>
-                  </div>
                 </div>
               </div>
 
@@ -122,7 +114,7 @@ export default function AboutPage() {
                 <div className="lg:col-span-9">
                   <p className="text-lg font-light leading-relaxed text-gray-400">
                     Founded in 2026 by researchers who believed the future of artificial 
-                    intelligence required a different approach—one grounded in rigorous 
+                    intelligence required a different approach one grounded in rigorous 
                     science, open collaboration, and ethical development.
                   </p>
                 </div>

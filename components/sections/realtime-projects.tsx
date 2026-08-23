@@ -114,7 +114,7 @@ export function RealtimeProjects({ initialProjects }: RealtimeProjectsProps) {
       ))}
       {projects.length === 0 && (
         <div className="text-center text-gray-500 py-32">
-          No projects found. Please add them to your Supabase database.
+          To be updated
         </div>
       )}
     </div>

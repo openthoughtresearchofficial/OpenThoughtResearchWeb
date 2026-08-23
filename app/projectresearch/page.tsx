@@ -6,7 +6,7 @@ import { RealtimeProjects } from '@/components/sections/realtime-projects'
 
 export const metadata: Metadata = {
   title: 'Project Research — Open Thought Research',
-  description: 'Our active project research database synced in real-time.',
+  description: '',
 }
 
 const initialProjects = [
@@ -66,7 +66,7 @@ export default function ProjectResearchPage() {
               Project Research
             </h1>
             <p className="text-xl md:text-2xl text-gray-400 max-w-3xl font-light leading-relaxed">
-              Our active and emerging research projects, updated dynamically from our real-time database.
+              Our active and emerging research projects !!!
             </p>
           </div>
         </section>
