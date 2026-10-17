@@ -17,7 +17,7 @@ export function ObjectiveOntologyIntro() {
         {/* Featured Conceptual Statement */}
         <div className="max-w-5xl mb-24 space-y-8">
           <h2 className="text-3xl md:text-5xl lg:text-6xl font-light tracking-tight leading-[1.15] text-white">
-            &ldquo;Before asking how an objective should be optimized, followed, evaluated, or changed, we must investigate what an objective is.&rdquo;
+            &ldquo;To understand what is possible, we must first investigate what is fundamental.&rdquo;
           </h2>
 
           <p className="text-lg md:text-2xl text-gray-400 font-light leading-relaxed max-w-4xl">

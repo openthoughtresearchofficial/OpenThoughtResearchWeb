@@ -101,10 +101,10 @@ export default function AboutPage() {
                       Core Institutional Premise
                     </div>
                     <p className="text-base font-light text-gray-200 leading-relaxed italic">
-                      &ldquo;Before asking how an objective should be optimized, followed, evaluated, or changed,
-                      we must investigate what an objective is. Objective Ontology is conceptually independent
-                      of any single discipline—exploring the identity, structure, relationships, and dynamics
-                      of objectives across all systems and realities.&rdquo;
+                      &ldquo;To understand what is possible, we must first investigate what is fundamental.
+                      Objective Ontology is conceptually independent of any single discipline—exploring the
+                      identity, structure, relationships, and dynamics of objectives across all systems and
+                      realities.&rdquo;
                     </p>
                   </div>
                 </div>

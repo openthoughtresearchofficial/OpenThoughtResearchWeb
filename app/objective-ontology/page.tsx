@@ -110,9 +110,9 @@ export default function ObjectiveOntologyPage() {
                 <p className="text-sm md:text-base text-gray-500 font-light leading-relaxed max-w-4xl pt-2">
                   The framework is conceptually prior to any single discipline or implementation. Objective
                   Ontology is not defined exclusively through artificial intelligence, optimization
-                  algorithms, reward functions, or computational systems. Before asking how a pre-given
-                  objective should be maximized, followed, or computed, the inquiry examines what an objective
-                  is in its own right.
+                  algorithms, reward functions, or computational systems. To understand what is possible, we must
+                  first investigate what is fundamental: examining what an objective is in its own right before
+                  restricting it to any single optimization target or application.
                 </p>
               </div>
             </div>
@@ -302,11 +302,10 @@ export default function ObjectiveOntologyPage() {
                 Institutional Research Principle
               </div>
               <p className="text-lg md:text-xl text-gray-200 font-light leading-relaxed italic">
-                &ldquo;Before asking how an objective should be optimized, followed, evaluated, or changed, we
-                must investigate what an objective is. Open Thought Research investigates the foundations of
-                objectives before restricting them to a particular application, establishing a disciplined
-                inquiry into what objectives are, how they exist, and how their nature shapes thought,
-                reasoning, and systems.&rdquo;
+                &ldquo;To understand what is possible, we must first investigate what is fundamental. Open
+                Thought Research investigates the foundations of objectives before restricting them to a
+                particular application, establishing a disciplined inquiry into what objectives are, how they
+                exist, and how their nature shapes thought, reasoning, and systems.&rdquo;
               </p>
               <div className="pt-2">
                 <Link

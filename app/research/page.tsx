@@ -127,10 +127,9 @@ export default function ResearchPage() {
                 Objective Ontology
               </h2>
               <p className="text-gray-400 text-base font-light leading-relaxed">
-                Before asking how an objective should be optimized, followed, evaluated, or changed, we
-                investigate what an objective is. Objective Ontology is Open Thought Research’s foundational
-                intellectual framework, exploring the identity, structure, relationships, and dynamics of
-                objectives across systems and realities.
+                To understand what is possible, we must first investigate what is fundamental. Objective
+                Ontology is Open Thought Research’s foundational intellectual framework, exploring the identity,
+                structure, relationships, and dynamics of objectives across systems and realities.
               </p>
             </div>
             <div>
