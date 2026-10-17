@@ -46,7 +46,12 @@ export default function VisionPage() {
                   Intelligence should be understood, not merely engineered.
                   By pursuing fundamental research across multiple disciplines,
                   we aim to reveal the principles that govern thought, reasoning,
-                  and knowledge itself.
+                  representations, and the ontology of objectives itself.
+                </p>
+                <p className="text-base font-light text-gray-400 leading-relaxed border-l border-gray-800 pl-6 italic">
+                  &ldquo;Before intelligence can optimize an objective, we must understand what an objective is.
+                  True progress demands that we investigate the structures, dependencies, constraints,
+                  and moral boundaries that define purposeful behavior.&rdquo;
                 </p>
               </div>
             </div>

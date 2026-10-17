@@ -19,8 +19,8 @@ import { SmoothScroll } from '@/components/smooth-scroll'
 
 export const metadata: Metadata = {
   title: 'Open Thought Research — Building the Future of Thought',
-  description: 'An independent AI research institute dedicated to advancing intelligence through artificial intelligence, computational reasoning, scientific discovery, and open research.',
-  keywords: ['AI research', 'artificial intelligence', 'computational reasoning', 'scientific discovery', 'open research', 'mathematics', 'cognitive science'],
+  description: 'An independent research institute dedicated to foundational inquiries into thought, reasoning, systems, and the development of Objective Ontology.',
+  keywords: ['Objective Ontology', 'foundational research', 'philosophy of objectives', 'computational reasoning', 'mathematics', 'cognitive science', 'artificial intelligence', 'systems research'],
   authors: [{ name: 'Open Thought Research' }],
   openGraph: {
     type: 'website',
@@ -28,7 +28,7 @@ export const metadata: Metadata = {
     url: 'https://openthought.research',
     siteName: 'Open Thought Research',
     title: 'Open Thought Research — Building the Future of Thought',
-    description: 'An independent AI research institute dedicated to advancing intelligence.',
+    description: 'An independent research institute dedicated to foundational inquiries into thought, reasoning, systems, and Objective Ontology.',
     images: [
       {
         url: '/og-image.png',

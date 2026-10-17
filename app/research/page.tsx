@@ -116,6 +116,34 @@ export default function ResearchPage() {
           </div>
         </section>
 
+        {/* Foundational Framework Callout */}
+        <section className="py-24 px-8 md:px-16 lg:px-24 border-t border-gray-900 bg-gray-950/40">
+          <div className="max-w-[1800px] mx-auto flex flex-col lg:flex-row justify-between items-start lg:items-center gap-8">
+            <div className="space-y-4 max-w-3xl">
+              <div className="text-xs font-mono tracking-widest text-gray-400 uppercase">
+                Central Foundational Framework
+              </div>
+              <h2 className="text-3xl md:text-4xl font-light text-white tracking-tight">
+                Objective Ontology
+              </h2>
+              <p className="text-gray-400 text-base font-light leading-relaxed">
+                Before asking how an objective should be optimized, followed, evaluated, or changed, we
+                investigate what an objective is. Objective Ontology is Open Thought Research’s foundational
+                intellectual framework, exploring the identity, structure, relationships, and dynamics of
+                objectives across systems and realities.
+              </p>
+            </div>
+            <div>
+              <Link
+                href="/objective-ontology"
+                className="inline-block px-8 py-4 border border-white/20 hover:border-white text-xs font-mono uppercase tracking-wider text-white transition-colors"
+              >
+                Read Foundational Publication →
+              </Link>
+            </div>
+          </div>
+        </section>
+
         {/* CTA */}
         <section className="py-32 px-8 md:px-16 lg:px-24 border-t border-gray-900">
           <div className="max-w-[1800px] mx-auto text-center">

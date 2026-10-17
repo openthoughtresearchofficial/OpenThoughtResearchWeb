@@ -1,4 +1,5 @@
 import { EditorialHero } from '@/components/sections/editorial-hero'
+import { ObjectiveOntologyIntro } from '@/components/sections/objective-ontology-intro'
 import { ResearchBlocks } from '@/components/sections/research-blocks'
 import { MinimalTimeline } from '@/components/sections/minimal-timeline'
 import { VisionSection } from '@/components/sections/vision-section'
@@ -11,6 +12,7 @@ export default function Home() {
       <Navigation />
       <main className="bg-black text-white">
         <EditorialHero />
+        <ObjectiveOntologyIntro />
         <ResearchBlocks />
         <MinimalTimeline />
         <VisionSection />

@@ -7,32 +7,32 @@ const researchAreas = [
   {
     id: 'ai',
     title: 'Artificial Intelligence',
-    description: 'Advancing machine learning architectures and autonomous systems',
+    description: 'Machine learning architectures, autonomous decision-making, and structured objective formulation.',
   },
   {
     id: 'reasoning',
     title: 'Computational Reasoning',
-    description: 'Formal methods and symbolic AI',
+    description: 'Formal verification, symbolic systems, automated theorem proving, and logical goal hierarchies.',
   },
   {
     id: 'discovery',
     title: 'Scientific Discovery',
-    description: 'AI-accelerated research in physics, chemistry, and biology',
+    description: 'Hypothesis generation and autonomous exploration in physical, chemical, and biological systems.',
   },
   {
     id: 'mathematics',
     title: 'Mathematics',
-    description: 'Pure and applied mathematics for AI systems',
+    description: 'Category theory, topology, and algebraic structures representing constraints and optimization geometries.',
   },
   {
     id: 'cognitive',
     title: 'Cognitive Science',
-    description: 'Understanding biological and artificial cognition',
+    description: 'Biological and artificial teleology, mental representations, intention, and goal-directed behavior.',
   },
   {
     id: 'philosophy',
     title: 'Philosophy',
-    description: 'Ethics, epistemology, and philosophy of mind',
+    description: 'Epistemology of objectives, philosophy of mind, ethical constraints, and teleological foundations.',
   },
 ]
 

@@ -3,6 +3,8 @@ import { Github } from 'lucide-react'
 
 const footerLinks = [
   { name: 'Research', href: '/research' },
+  { name: 'Objective Ontology', href: '/objective-ontology' },
+  { name: 'Project Research', href: '/projectresearch' },
   { name: 'Vision', href: '/vision' },
   { name: 'About', href: '/about' },
 ]
@@ -23,7 +25,7 @@ export function Footer() {
           </Link>
 
           {/* Links */}
-          <div className="flex gap-8">
+          <div className="flex flex-wrap gap-8">
             {footerLinks.map(link => (
               <Link
                 key={link.name}
@@ -37,7 +39,7 @@ export function Footer() {
 
           {/* GitHub */}
           <a
-            href="https://github.com"
+            href="https://github.com/openthoughtresearchofficial"
             target="_blank"
             rel="noopener noreferrer"
             className="text-gray-400 hover:text-white transition-colors"

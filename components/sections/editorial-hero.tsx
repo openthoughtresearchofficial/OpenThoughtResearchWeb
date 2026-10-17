@@ -45,17 +45,23 @@ export function EditorialHero() {
               Research
             </h1>
             
-            <p className="text-lg md:text-xl text-gray-400 max-w-md font-light tracking-wide">
-              Exploring the Boundaries of Knowledge
-            </p>
+            <div className="space-y-4 max-w-lg">
+              <p className="text-lg md:text-xl text-gray-300 font-light tracking-wide">
+                Exploring the Boundaries of Knowledge
+              </p>
+              <p className="text-sm text-gray-400 font-light leading-relaxed">
+                Investigating the foundational structures of thought, reasoning, systems,
+                and the inquiry into Objective Ontology across theoretical and applied domains.
+              </p>
+            </div>
             
-            <div className="flex gap-4 pt-4">
+            <div className="flex flex-wrap gap-4 pt-4">
               <Button 
                 size="lg" 
                 className="bg-white text-black hover:bg-gray-200 px-8 h-12"
                 asChild
               >
-                <Link href="/research">Research</Link>
+                <Link href="/objective-ontology">Objective Ontology</Link>
               </Button>
               <Button 
                 size="lg" 
@@ -63,7 +69,7 @@ export function EditorialHero() {
                 className="border-white text-white hover:bg-white hover:text-black px-8 h-12"
                 asChild
               >
-                <Link href="/about">About</Link>
+                <Link href="/research">Research</Link>
               </Button>
             </div>
           </div>
