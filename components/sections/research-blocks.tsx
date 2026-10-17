@@ -7,12 +7,12 @@ const researchAreas = [
   {
     id: 'ai',
     title: 'Artificial Intelligence',
-    description: 'Machine learning architectures, autonomous decision-making, and structured objective formulation.',
+    description: 'Machine learning architectures, autonomous reasoning, and structured theoretical foundations.',
   },
   {
     id: 'reasoning',
     title: 'Computational Reasoning',
-    description: 'Formal verification, symbolic systems, automated theorem proving, and logical goal hierarchies.',
+    description: 'Formal verification, symbolic systems, automated theorem proving, and verified computation.',
   },
   {
     id: 'discovery',
@@ -22,17 +22,17 @@ const researchAreas = [
   {
     id: 'mathematics',
     title: 'Mathematics',
-    description: 'Category theory, topology, and algebraic structures representing constraints and optimization geometries.',
+    description: 'Category theory, topology, and algebraic structures representing mathematical foundations.',
   },
   {
     id: 'cognitive',
     title: 'Cognitive Science',
-    description: 'Biological and artificial teleology, mental representations, intention, and goal-directed behavior.',
+    description: 'Cognitive architectures, computational modeling, and mental representations.',
   },
   {
     id: 'philosophy',
     title: 'Philosophy',
-    description: 'Epistemology of objectives, philosophy of mind, ethical constraints, and teleological foundations.',
+    description: 'Epistemology, philosophy of mind, ethics, and foundational conceptual inquiries.',
   },
 ]
 

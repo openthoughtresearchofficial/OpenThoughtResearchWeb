@@ -79,27 +79,28 @@ The global navigation header is fixed at the top with a subtle backdrop blur on 
 - **Subheading**:
   > "Exploring the Boundaries of Knowledge"
 - **Narrative**:
-  > "Investigating the foundational structures of thought, reasoning, systems, and the inquiry into Objective Ontology across theoretical and applied domains."
+  > "Investigating fundamental questions, underlying structures, and unexplored possibilities across theoretical, computational, and interdisciplinary domains."
 - **Actions / Buttons**:
-  - Primary: `Objective Ontology` (links to `/objective-ontology`)
-  - Secondary: `Research` (links to `/research`)
+  - Primary: `Research` (links to `/research`)
+  - Secondary: `Project Research` (links to `/projectresearch`)
 - **Scroll Indicator**: Minimal 1px vertical fading rule.
 
 ---
 
-### 4.2 Featured Conceptual Inquiry: Objective Ontology
-- **Breadcrumb**: `Foundational Framework / Open Thought Research`
-- **Featured Statement**:
-  > **&ldquo;To understand what is possible, we must first investigate what is fundamental.&rdquo;**
-- **Foundational Definition**:
-  > "Objective Ontology is the foundational inquiry into the nature, existence, identity, structure, relationships, and dynamics of objectives—conceptually independent of any single discipline or implementation."
-- **Central Question**:
-  > *“What is an objective, what makes it an objective, how does it exist and relate to other things, and how can its structure and transformations be understood?”*
-- **Four Core Distinctions**:
-  1. **Concept vs. Occurrence**: Distinguishing an objective as a concept requiring ontological investigation from an outcome, event, or condition.
-  2. **Anatomy & Composition**: Examining objectives as structured entities with sub-objectives, dependencies, constraints, and priorities.
-  3. **Persistence & Transformation**: Studying how objectives persist, evolve, dissolve, or generate incommensurable conflicts over time.
-  4. **Cross-Disciplinary Translation**: Investigating how objectives are represented within philosophy, mathematics, computation, cognition, and AI without identifying the ontology exclusively with any one field.
+### 4.2 Foundations of Research
+- **Section Label**: `FOUNDATIONS OF RESEARCH / OPEN THOUGHT RESEARCH`
+- **Heading**: `Research`
+- **Lead Subtitle**:
+  > "An inquiry into the fundamental questions, underlying structures, and unexplored possibilities that shape our understanding of the world."
+- **Core Statement**:
+  > “Open Thought Research investigates ideas at their foundations. We question assumptions, explore unfamiliar connections, develop conceptual frameworks, and pursue deeper understanding through theoretical inquiry, mathematical reasoning, computational investigation, and interdisciplinary research.”
+- **Research Philosophy**:
+  > “Meaningful research begins with curiosity and progresses through questioning, investigation, critical examination, and the refinement of ideas. We seek not only to discover answers, but also to understand the assumptions, structures, and questions that make new discoveries possible.”
+- **Featured Research Framework**:
+  - **Framework Title**: `Objective Ontology`
+  - **Description**:
+    > “An ongoing foundational inquiry into the nature, identity, structure, relationships, and dynamics of objectives. This framework examines questions that may be explored independently of any single discipline, with potential connections to philosophy, mathematics, computation, artificial intelligence, cognitive science, and systems research.”
+  - **Call to Action**: `Explore the Objective Ontology Framework →` (links to `/objective-ontology`)
 
 ---
 
@@ -109,12 +110,12 @@ The global navigation header is fixed at the top with a subtle backdrop blur on 
 
 | # | Area Title | Summary Description |
 | :-: | :--- | :--- |
-| **01** | **Artificial Intelligence** | Machine learning architectures, autonomous decision-making, and structured objective formulation. |
-| **02** | **Computational Reasoning** | Formal verification, symbolic systems, automated theorem proving, and logical goal hierarchies. |
+| **01** | **Artificial Intelligence** | Machine learning architectures, autonomous reasoning, and structured theoretical foundations. |
+| **02** | **Computational Reasoning** | Formal verification, symbolic systems, automated theorem proving, and verified computation. |
 | **03** | **Scientific Discovery** | Hypothesis generation and autonomous exploration in physical, chemical, and biological systems. |
-| **04** | **Mathematics** | Category theory, topology, and algebraic structures representing constraints and optimization geometries. |
-| **05** | **Cognitive Science** | Biological and artificial teleology, mental representations, intention, and goal-directed behavior. |
-| **06** | **Philosophy** | Epistemology of objectives, philosophy of mind, ethical constraints, and teleological foundations. |
+| **04** | **Mathematics** | Category theory, topology, and algebraic structures representing mathematical foundations. |
+| **05** | **Cognitive Science** | Cognitive architectures, computational modeling, and mental representations. |
+| **06** | **Philosophy** | Epistemology, philosophy of mind, ethics, and foundational conceptual inquiries. |
 
 ---
 

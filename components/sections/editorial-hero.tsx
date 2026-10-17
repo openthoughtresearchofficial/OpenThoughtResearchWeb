@@ -50,8 +50,8 @@ export function EditorialHero() {
                 Exploring the Boundaries of Knowledge
               </p>
               <p className="text-sm text-gray-400 font-light leading-relaxed">
-                Investigating the foundational structures of thought, reasoning, systems,
-                and the inquiry into Objective Ontology across theoretical and applied domains.
+                Investigating fundamental questions, underlying structures, and unexplored possibilities
+                across theoretical, computational, and interdisciplinary domains.
               </p>
             </div>
             
@@ -61,7 +61,7 @@ export function EditorialHero() {
                 className="bg-white text-black hover:bg-gray-200 px-8 h-12"
                 asChild
               >
-                <Link href="/objective-ontology">Objective Ontology</Link>
+                <Link href="/research">Research</Link>
               </Button>
               <Button 
                 size="lg" 
@@ -69,7 +69,7 @@ export function EditorialHero() {
                 className="border-white text-white hover:bg-white hover:text-black px-8 h-12"
                 asChild
               >
-                <Link href="/research">Research</Link>
+                <Link href="/projectresearch">Project Research</Link>
               </Button>
             </div>
           </div>

@@ -43,8 +43,8 @@ export default function AboutPage() {
                   <p className="text-2xl md:text-3xl font-light leading-relaxed text-gray-300">
                     We are an independent, research-first organization developing foundational ideas,
                     formal frameworks, theoretical models, and computational investigations.
-                    Our core intellectual pursuit centers on the study of thought, systems, and
-                    the foundations of Objective Ontology.
+                    Our core intellectual pursuit centers on investigating fundamental questions,
+                    exploring ideas, and understanding the foundations of complex phenomena.
                   </p>
                 </div>
               </div>
@@ -59,7 +59,7 @@ export default function AboutPage() {
                 <div className="lg:col-span-9 space-y-8">
                   <p className="text-lg font-light leading-relaxed text-gray-400">
                     To advance human knowledge through fundamental research that explores the nature
-                    of objectives, thought, reasoning, and systems—bridging conceptual philosophy with
+                    of thought, reasoning, and complex systems—bridging conceptual inquiry with
                     mathematical formalization and rigorous computation.
                   </p>
                   
@@ -73,24 +73,24 @@ export default function AboutPage() {
                       <div className="space-y-2">
                         <span className="text-xs font-mono text-white">01 / Foundational Inquiry</span>
                         <p className="text-xs text-gray-400 font-light leading-relaxed">
-                          What are objectives, and what is their nature? Investigating existence, identity,
-                          purpose, and the teleological structures of reality.
+                          Investigating fundamental questions, conceptual frameworks, underlying assumptions,
+                          and the nature of complex phenomena across disciplines.
                         </p>
                       </div>
 
                       <div className="space-y-2">
                         <span className="text-xs font-mono text-white">02 / Formal Development</span>
                         <p className="text-xs text-gray-400 font-light leading-relaxed">
-                          How can objective-related concepts be formally represented, analyzed, and modeled
-                          using set theory, graphs, dynamical systems, and logics?
+                          Representing, analyzing, and modeling structures, relations, constraints,
+                          and dynamical processes using mathematics and computational formalisms.
                         </p>
                       </div>
 
                       <div className="space-y-2">
                         <span className="text-xs font-mono text-white">03 / Disciplinary Applications</span>
                         <p className="text-xs text-gray-400 font-light leading-relaxed">
-                          How might these foundational insights inform artificial intelligence, mathematics,
-                          cognition, ethics, scientific reasoning, and organizational systems?
+                          Applying foundational insights across mathematics, computer science,
+                          artificial intelligence, cognitive science, philosophy, and scientific discovery.
                         </p>
                       </div>
                     </div>
@@ -98,13 +98,13 @@ export default function AboutPage() {
 
                   <div className="p-6 border border-gray-900 bg-gray-950/40 space-y-3">
                     <div className="text-xs font-mono uppercase text-gray-400 tracking-wider">
-                      Core Institutional Premise
+                      Research Philosophy
                     </div>
                     <p className="text-base font-light text-gray-200 leading-relaxed italic">
-                      &ldquo;To understand what is possible, we must first investigate what is fundamental.
-                      Objective Ontology is conceptually independent of any single discipline—exploring the
-                      identity, structure, relationships, and dynamics of objectives across all systems and
-                      realities.&rdquo;
+                      &ldquo;Meaningful research begins with curiosity and progresses through questioning,
+                      investigation, critical examination, and the refinement of ideas. We seek not only to
+                      discover answers, but also to understand the assumptions, structures, and questions that
+                      make new discoveries possible.&rdquo;
                     </p>
                   </div>
                 </div>

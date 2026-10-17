@@ -60,14 +60,22 @@ export default function ResearchPage() {
       <main className="bg-black text-white pt-24">
         {/* Hero */}
         <section className="py-32 px-8 md:px-16 lg:px-24">
-          <div className="max-w-[1800px] mx-auto">
-            <h1 className="text-[4rem] md:text-[6rem] lg:text-[8rem] leading-[0.9] font-light tracking-tight mb-12">
+          <div className="max-w-[1800px] mx-auto space-y-8">
+            <div className="text-xs font-mono tracking-widest text-gray-400 uppercase">
+              Foundations of Research
+            </div>
+            <h1 className="text-[4rem] md:text-[6rem] lg:text-[8rem] leading-[0.9] font-light tracking-tight">
               Research
             </h1>
-            <p className="text-xl md:text-2xl text-gray-400 max-w-3xl font-light leading-relaxed">
-              We conduct fundamental research across multiple disciplines,
-              united by a commitment to advancing intelligence and understanding
-              the nature of thought itself.
+            <p className="text-xl md:text-2xl text-gray-200 max-w-4xl font-light leading-relaxed">
+              An inquiry into the fundamental questions, underlying structures, and unexplored possibilities that
+              shape our understanding of the world.
+            </p>
+            <p className="text-base text-gray-400 max-w-3xl font-light leading-relaxed">
+              &ldquo;Open Thought Research investigates ideas at their foundations. We question assumptions,
+              explore unfamiliar connections, develop conceptual frameworks, and pursue deeper understanding
+              through theoretical inquiry, mathematical reasoning, computational investigation, and
+              interdisciplinary research.&rdquo;
             </p>
           </div>
         </section>
@@ -116,20 +124,21 @@ export default function ResearchPage() {
           </div>
         </section>
 
-        {/* Foundational Framework Callout */}
+        {/* Featured Research Framework Callout */}
         <section className="py-24 px-8 md:px-16 lg:px-24 border-t border-gray-900 bg-gray-950/40">
           <div className="max-w-[1800px] mx-auto flex flex-col lg:flex-row justify-between items-start lg:items-center gap-8">
             <div className="space-y-4 max-w-3xl">
               <div className="text-xs font-mono tracking-widest text-gray-400 uppercase">
-                Central Foundational Framework
+                Featured Research Framework
               </div>
               <h2 className="text-3xl md:text-4xl font-light text-white tracking-tight">
                 Objective Ontology
               </h2>
               <p className="text-gray-400 text-base font-light leading-relaxed">
-                To understand what is possible, we must first investigate what is fundamental. Objective
-                Ontology is Open Thought Research’s foundational intellectual framework, exploring the identity,
-                structure, relationships, and dynamics of objectives across systems and realities.
+                An ongoing foundational inquiry into the nature, identity, structure, relationships, and
+                dynamics of objectives. This framework examines questions that may be explored independently of
+                any single discipline, with potential connections to philosophy, mathematics, computation,
+                artificial intelligence, cognitive science, and systems research.
               </p>
             </div>
             <div>
@@ -137,7 +146,7 @@ export default function ResearchPage() {
                 href="/objective-ontology"
                 className="inline-block px-8 py-4 border border-white/20 hover:border-white text-xs font-mono uppercase tracking-wider text-white transition-colors"
               >
-                Read Foundational Publication →
+                Explore the Objective Ontology Framework →
               </Link>
             </div>
           </div>
